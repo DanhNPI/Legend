@@ -1,0 +1,18 @@
+{
+   "created_at" : "2024-08-14T09:07:05Z",
+   "device_info" : {
+      "build_name" : "C5.1",
+      "configuration_code" : "C5027",
+      "program_name" : "Charleston-S",
+      "serial_number" : "0914010000ca3803013aca3803069254",
+      "site_name" : "LGVH"
+   },
+   "rel_tag" : "MFG",
+   "station_info" : {
+      "equipment_id" : "VCMCT9009T01",
+      "site_name" : "LGVH",
+      "software_version" : "EPSSWEXCEPTION_POR_F52_UDT_CUBE_MFG_Laser_C5027_2d105e6_24080900",
+      "station_type" : "UpDownMFG"
+   }
+}
+
